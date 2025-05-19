@@ -43,7 +43,7 @@
   <a href="mailto:rm.mac@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://discord.com/channels/@me/1049569212240232539/1373977400320331786" target="_blank">
+  <a href="https://u.wechat.com/kHDDDDvUBAgz_W7tETrM-5E?s=2" target="_blank">
     <img src="https://img.shields.io/static/v1?message=WeChat&logo=wechat&label=&color=7BB32A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="wechat logo"  />
   </a>
   <a href="https://x.com/ReinaMacCredy" target="_blank">
