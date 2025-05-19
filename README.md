@@ -56,8 +56,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ReinaMacCredy/ReinaMacCredy/output/snake.svg" alt="Snake animation" />
+![Snake Animation](https://github.com/ReinaMacCredy/ReinaMacCredy/blob/output/github-snake.svg)
 
 ###
