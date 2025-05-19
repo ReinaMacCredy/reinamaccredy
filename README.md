@@ -1,5 +1,15 @@
-<h2 align="left">Heloo~! My name is Reina and I'm a IT & Computer Science student, from Vietnam.</h2>
+<h2 align="left">Hello~! My name is Reina and I'm an IT & Computer Science student.</h2>
 
+<p align="left">
+
+
+---
+
+![Reina's GitHub Stats](https://github-readme-stats-bice-gamma.vercel.app/api?username=ReinaMacCredy&show_icons=true&count_private=true&theme=radical)
+
+![Top Languages](https://github-readme-stats-bice-gamma.vercel.app/api/top-langs/?username=ReinaMacCredy&layout=compact&theme=radical)
+
+---
 ###
 
 <img align="right" height="150" src="https://github.com/ReinaMacCredy/reinamaccredy/blob/main/asset/Honkai%20Star%20Rail.gif"  />
