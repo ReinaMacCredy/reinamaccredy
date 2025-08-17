@@ -1,6 +1,10 @@
-<h2 align="left">Hello~! My name is Reina and I'm an IT & Computer Science student.</h2>
+### My status:
 
-<p align="left">
+Hello~! My name is Reina and I'm an IT & Computer Science student, passionate about AI, coding, and tech innovation. I enjoy working on AI agents, multi-tenant systems, and personalizing model outputs.
+
+If you don’t see me online, I’m probably experimenting with new ideas or simply recharging so I can come back with even more exciting projects.
+
+Love you all~
 
 
 ---
