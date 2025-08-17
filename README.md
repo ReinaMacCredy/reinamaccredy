@@ -6,62 +6,52 @@ If you don’t see me online, I’m probably experimenting with new ideas or sim
 
 Love you all~
 
-
 ---
 
-![Reina's GitHub Stats](https://github-readme-stats-bice-gamma.vercel.app/api?username=ReinaMacCredy&show_icons=true&count_private=true&theme=radical)
 
-![Top Languages](https://github-readme-stats-bice-gamma.vercel.app/api/top-langs/?username=ReinaMacCredy&layout=compact&theme=radical)
+#
+<div>
+<img src="asset/face.png" width="300" align="right" />
+<br/>
+<img src="asset/about_me.png" width="500" />
+<br/>
+<br/>
+  
+- <img src="https://i.imgur.com/3KyfuCu.png" alt="." width="16" height="16"/> I’m a student from Vietnam~ 
 
-###
+
+- I'm quite skilled with <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="16" height="16"/> Python</a> and <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="16" height="16"/> Swift</a>
+- I can read and understand some code written in <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="16" height="16"/> C++</a> and <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="16" height="16"/> TypeScript</a>
+- I'm currently learning <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="16" height="16"/> AWS</a>, <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="16" height="16"/> C++</a> and <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="16" height="16"/> Docker</a>
+
+<img src="asset/body.png" width="300" align="right" />
+<br/>
 
 
-###
 
-<img align="right" height="150" src="https://github.com/ReinaMacCredy/reinamaccredy/blob/main/asset/Honkai%20Star%20Rail.gif"  />
+<img src="asset/kiana.gif" width="500" /><br/>
 
-###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="30" alt="swift logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/objectivec/objectivec-plain.svg" height="30" alt="objectivec logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
+<sub>  *“It sure isn’t all sunshines and rainbows, but there are people who taught me to never give up. They’ve been guiding me, and showing me all the beautiful things in this world.” – Kiana.* </sub>
 </div>
 
-###
+## Discord
+<a href="https://discord.com/users/970626073199005717"  align="left">
+    <img src="https://lanyard.cnrad.dev/api/970626073199005717?showDisplayName=true&idleMessage=Because%20Kiana%20is%20an%20idiot%2C%20and%20idiots%20don%E2%80%99t%20give%20up%20%E2%B8%9D%E2%B8%9D%3E%20%20%CC%AB%20%3C%E2%B8%9D%E2%B8%9D&hideStatus=true&bg=1D0403">
+</a>
 
-<div align="left">
-    <a href="https://discord.com/users/970626073199005717" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="mailto:rm.macr@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://u.wechat.com/kHDDDDvUBAgz_W7tETrM-5E?s=2" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=WeChat&logo=wechat&label=&color=7BB32A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="wechat logo"  />
-  </a>
-  <a href="https://x.com/ReinaMacCredy" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-  <a href="mailto:reina.maccredy@outlook.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
-  </a>
-</div>
+## My stats:
 
-###
+<p>
+  <a href="/"  align="left">
+  <img width="auto" src="https://github-readme-stats-bice-gamma.vercel.app/api?username=ReinaMacCredy&show_icons=true&count_private=true&theme=radical"/>
+  </a>
+</p>
 
-<br clear="both">
+## Commits
 
 <img src="https://raw.githubusercontent.com/ReinaMacCredy/ReinaMacCredy/output/snake.svg" alt="Snake animation" />
 
-###
+
+# EOF~
+## Thanks for reading ❤️
