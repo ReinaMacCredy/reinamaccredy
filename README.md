@@ -24,7 +24,7 @@ Love you all~
 
 <img src="asset/kiana.gif" width="500" /><br/>
 
-<sub>  *"It sure isn't all sunshines and rainbows, but there are people who taught me to never give up. They've been guiding me, and showing me all the beautiful things in this world." – Kiana.* </sub>
+<sub>  *"There's a saying — the more demanding the diner, the stronger the skills of the chef... but no matter what others say, I'll always be demanding more from myself." – Robin.* </sub>
 </div>
 
 ## Discord
