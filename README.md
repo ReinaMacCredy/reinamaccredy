@@ -1,4 +1,4 @@
-### My status:
+### Welcome to my digital realm~
 
 Hello~! My name is Reina and I'm an IT & Computer Science student, passionate about AI, coding, and tech innovation. I enjoy working on AI agents, multi-tenant systems, and personalizing model outputs.
 
