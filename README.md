@@ -9,10 +9,7 @@ Love you all~
 ---
 
 #
-<div>
-<img src="asset/about_me.png" width="500" />
-<br/>
-<br/>
+
   
 - I'm a student from Vietnam.
 
