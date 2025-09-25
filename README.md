@@ -33,7 +33,7 @@ Love you all~
 
 <p>
   <a href="/"  align="left">
-  <img width="auto" src="https://github-readme-stats-bice-gamma.vercel.app/api?username=ReinaMacCredy&show_icons=true&count_private=true&theme=radical"/>
+  <img width="auto" src="https://github-readme-stats.vercel.app/api?username=ReinaMacCredy&show_icons=true&count_private=true&include_all_commits=true&theme=radical"/>
   </a>
 </p>
 
