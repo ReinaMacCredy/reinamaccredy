@@ -19,7 +19,7 @@ Love you all~
 
 - I'm currently learning <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="16" height="16"/> AWS</a>, <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="16" height="16"/> C++</a> and <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="16" height="16"/> Docker</a>
 
-<img src="asset/kiana.gif" width="500" /><br/>
+<img src="asset/Mornye.gif" width="500" /><br/>
 
 <sub>  *"There's a saying — the more demanding the diner, the stronger the skills of the chef... but no matter what others say, I'll always be demanding more from myself." – Robin.* </sub>
 </div>
